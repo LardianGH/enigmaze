@@ -1,0 +1,20 @@
+[
+{
+    "id" : 1,
+    "type" : "enemy",
+    "name" : "Skeleton",
+    "condition" : 50, 
+    "limbCondition" : [{"head": 100}, {"torso": 100}, {"leftArm": 100}, {"rightArm": 100}, {"leftLeg": 100}, {"rightLeg": 100}],
+    "guard" : 15,
+    "brawn" : 20
+},
+{
+    "id" : 2,
+    "type" : "enemy",
+    "name" : "Orc",
+    "condition" : 150, 
+    "limbCondition" : [{"head": 100}, {"torso": 100}, {"leftArm": 100}, {"rightArm": 100}, {"leftLeg": 100}, {"rightLeg": 100}],
+    "guard" : 25,
+    "brawn" : 50
+}
+]
